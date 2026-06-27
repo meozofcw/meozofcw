@@ -16,7 +16,7 @@
 
 🎓 Estudante de desenvolvimento de software.
 
-Gosto de aprender construindo projetos reais, explorando desde o desenvolvimento web até desenvolvimento de jogos e infraestrutura.
+Gosto de aprender construindo projetos reais, explorando desde desenvolvimento web até jogos e infraestrutura.
 
 Sempre procuro entender como as tecnologias funcionam na prática e transformar ideias em aplicações completas.
 
@@ -28,22 +28,18 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 <tr>
 <td>
 
-🌐 Desenvolvimento Web
-
-🤖 Inteligência Artificial
-
-🎮 Desenvolvimento de Jogos
-
-🖥️ Homelab
-
-🎨 UI / UX
+🌐 Desenvolvimento Web  
+🤖 Inteligência Artificial  
+🎮 Desenvolvimento de Jogos  
+🖥️ Homelab  
+🎨 UI / UX  
 
 </td>
 
-<td>
-<div align="center">
-<img src="[https://github-readme-streak-stats.herokuapp.com?user=meozofcw&theme=transparent&hide_border=true](https://skillicons.dev/icons?i=firebase,py,nextjs,react,cloudflare&perline=1)"/>
-</div>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=firebase,python,nextjs,react,cloudflare&perline=1" />
+
 </td>
 </tr>
 </table>
@@ -58,9 +54,7 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 # <img src="./assets/pencil.png" width="24"> Ferramentas
 
-
 <img src="https://skillicons.dev/icons?i=ae,androidstudio,arduino,blender,ps,netlify,pr,supabase&perline=4"/>
-
 
 ---
 
@@ -94,10 +88,10 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 # <img src="./assets/flag.png" width="24"> Objetivos
 
-- 📖 Evoluir constantemente como desenvolvedor.
-- 💡 Criar projetos que desafiem meus conhecimentos.
-- 🤝 Aprender colaborando com outras pessoas.
-- 🚀 Construir um portfólio sólido.
+- 📖 Evoluir constantemente como desenvolvedor  
+- 💡 Criar projetos que desafiem meus conhecimentos  
+- 🤝 Aprender colaborando com outras pessoas  
+- 🚀 Construir um portfólio sólido  
 
 ---
 
@@ -108,6 +102,7 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 <a href="https://github.com/meozofcw">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
 <a href="mailto:meozofcw@gmail.com">
 <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
