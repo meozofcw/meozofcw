@@ -12,7 +12,7 @@
 
 ---
 
-# <img src="./assets/user.png" width="50"> Sobre mim
+# <img src="./assets/user.png" width="24"> Sobre mim
 
 🎓 Estudante de desenvolvimento de software.
 
