@@ -58,13 +58,13 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 ---
 
-# 📚 Atualmente estudando
+# <img src="./assets/book-alt.png" width="24"> Atualmente estudando
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,firebase,nodejs,python,unity,git,github,vscode&perline=5"/>
 
 ---
 
-# 🛠 Ferramentas
+# <img src="./assets/pencil.png" width="24"> Ferramentas
 
 <p align="center">
 
@@ -74,13 +74,13 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 ---
 
-# 📊 Estatísticas
+# <img src="./assets/flame.png" width="24"> Estatísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meozofcw&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meozofcw&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -88,23 +88,21 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=meozofcw&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
-
-# 📈 Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meozofcw&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Objetivos
+# <img src="./assets/flag.png" width="24"> Objetivos
 
 - 📖 Evoluir constantemente como desenvolvedor.
 - 💡 Criar projetos que desafiem meus conhecimentos.
@@ -113,12 +111,16 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 ---
 
-# 🌎 Onde me encontrar
+# <img src="./assets/street-view.png" width="24"> Onde me encontrar
 
 <p align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/meozofcw">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+--
+<a href="mailto:meozofcw@gmail.com">
+<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -129,6 +131,6 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 ### Obrigado pela visita! ⭐
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=meozofcw&style=for-the-badge&color=7C3AED"/>
 
 </div>
