@@ -41,9 +41,9 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 </td>
 
 <td>
-
+<div align="center">
 <img src="[https://github-readme-streak-stats.herokuapp.com?user=meozofcw&theme=transparent&hide_border=true](https://skillicons.dev/icons?i=firebase,py,nextjs,react,cloudflare&perline=1)"/>
-
+</div>
 </td>
 </tr>
 </table>
