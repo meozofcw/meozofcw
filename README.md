@@ -66,11 +66,9 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 # <img src="./assets/pencil.png" width="24"> Ferramentas
 
-<p align="center">
 
 <img src="https://skillicons.dev/icons?i=ae,androidstudio,arduino,blender,ps,netlify,pr,supabase&perline=4"/>
 
-</p>
 
 ---
 
