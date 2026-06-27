@@ -1,85 +1,126 @@
+<div align="center">
 
+# 👋 Olá, eu sou Meoz
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=3000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Estudante+de+Desenvolvimento+de+Software;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo." />
 
-# <img src="https://raw.githubusercontent.com/Skyppex/ra-icons/master/svg/player.svg" width="24"> Sobre
+<br>
 
-Sou estudante e desenvolvedor apaixonado por tecnologia, desenvolvimento web e criação de jogos.
+<img src="https://img.shields.io/badge/Status-Estudando-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/Foco-Full%20Stack-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Local-Brasil-5B21B6?style=for-the-badge">
 
-Atualmente estudo desenvolvimento Full Stack utilizando **Next.js**, **Firebase** e **TypeScript**, além de explorar desenvolvimento de jogos na **Unity** e projetos envolvendo servidores e infraestrutura.
-
-Sempre busco transformar ideias em projetos reais.
-
----
-
-# <img src="https://raw.githubusercontent.com/Skyppex/ra-icons/master/svg/book.svg" width="24"> Atualmente estudando
-
-- Next.js
-- React
-- Firebase
-- TypeScript
-- Unity
-- Linux
-- Docker
-- Homelab
+</div>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Skyppex/ra-icons/master/svg/cog.svg" width="24"> Tecnologias
+# 📖 Sobre mim
+
+🎓 Estudante de desenvolvimento de software.
+
+Gosto de aprender construindo projetos reais, explorando desde o desenvolvimento web até desenvolvimento de jogos e infraestrutura.
+
+Sempre procuro entender como as tecnologias funcionam na prática e transformar ideias em aplicações completas.
+
+---
+
+# 🚀 Áreas de Interesse
+
+<table>
+<tr>
+<td>
+
+🌐 Desenvolvimento Web
+
+🤖 Inteligência Artificial
+
+🎮 Desenvolvimento de Jogos
+
+🖥️ Homelab
+
+🎨 UI / UX
+
+</td>
+
+<td>
+
+🔥 Firebase
+
+🐍 Python
+
+⚡ Next.js
+
+📱 React
+
+☁️ Cloud
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Atualmente estudando
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,firebase,nodejs,python,unity,git,github,vscode&perline=5"/>
+
+---
+
+# 🛠 Ferramentas
 
 <p align="center">
 
-<img height="45" src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,firebase,unity,cs,python,html,css,tailwind,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=windows,linux,figma,blender,ps"/>
 
 </p>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Skyppex/ra-icons/master/svg/tower.svg" width="24"> Projetos
+# 📊 Estatísticas
 
-### Nexus Carmesin
-Homebrew virtual para múltiplos sistemas de RPG.
+<div align="center">
 
-**Stack**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
 
-Next.js • Firebase • Firestore • Authentication • TypeScript
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
 
----
-
-### Purgatum RPG
-
-Sistema próprio de RPG medieval pós-apocalíptico com universo original.
+</div>
 
 ---
 
-### Homelab
+<div align="center">
 
-Servidor doméstico para estudos de virtualização, containers e serviços self-hosted.
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Skyppex/ra-icons/master/svg/chart.svg" width="24"> GitHub
+# 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Objetivos
+
+- 📖 Evoluir constantemente como desenvolvedor.
+- 💡 Criar projetos que desafiem meus conhecimentos.
+- 🤝 Aprender colaborando com outras pessoas.
+- 🚀 Construir um portfólio sólido.
+
+---
+
+# 🌎 Onde me encontrar
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# <img src="https://raw.githubusercontent.com/Skyppex/ra-icons/master/svg/network.svg" width="24"> Contato
-
-<p align="center">
-
-<a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
@@ -88,6 +129,8 @@ Servidor doméstico para estudos de virtualização, containers e serviços self
 
 <div align="center">
 
-> *"Transformando ideias em projetos, um commit de cada vez."*
+### Obrigado pela visita! ⭐
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=7C3AED"/>
 
 </div>
