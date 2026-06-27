@@ -68,7 +68,7 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,figma,blender,ps"/>
+<img src="(https://skillicons.dev/icons?i=ae,androidstudio,arduino,blender,ps,netlify,pr,supabase&perline=4)"/>
 
 </p>
 
