@@ -116,7 +116,9 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 <a href="https://github.com/meozofcw">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
---
+
+---
+
 <a href="mailto:meozofcw@gmail.com">
 <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
