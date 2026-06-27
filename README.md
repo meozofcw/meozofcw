@@ -2,8 +2,6 @@
 
 # 👋 Olá, eu sou Meoz
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=3000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Estudante+de+Desenvolvimento+de+Software;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo." />
-
 <br>
 
 <img src="https://img.shields.io/badge/Status-Estudando-blueviolet?style=for-the-badge">
