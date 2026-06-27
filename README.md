@@ -1,10 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=240&section=header&text=Diógenes&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Development;Game+Development;UI%2FUX+Design"/>
-
-</div>
 
 ---
 
