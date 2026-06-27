@@ -42,15 +42,7 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 <td>
 
-🔥 Firebase
-
-🐍 Python
-
-⚡ Next.js
-
-📱 React
-
-☁️ Cloud
+<img src="[https://github-readme-streak-stats.herokuapp.com?user=meozofcw&theme=transparent&hide_border=true](https://skillicons.dev/icons?i=firebase,py,nextjs,react,cloudflare&perline=1)"/>
 
 </td>
 </tr>
