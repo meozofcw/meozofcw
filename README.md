@@ -22,7 +22,7 @@ Sempre procuro entender como as tecnologias funcionam na prática e transformar 
 
 ---
 
-# 🚀 Áreas de Interesse
+# <img src="./assets/edit.png" width="24"> Áreas de Interesse
 
 <table>
 <tr>
